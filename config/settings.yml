@@ -1,0 +1,4 @@
+plugins:
+  plugin_thumb_override_enabled:
+    default: false
+    client: true
